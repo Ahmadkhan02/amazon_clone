@@ -1,7 +1,7 @@
 Amazon clone made with react .js library
 
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/home1.PNG" width=100%>
-<img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/login.PNG" width=100%>
+<img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/login.PNG" width=40%>
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/basket.PNG" width=100%>
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/checkout.PNG" width=100%>
 
