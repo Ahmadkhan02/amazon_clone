@@ -1,8 +1,15 @@
-Amazon clone made with react .js library
+<strong>Amazon clone made with react .js library</strong>
 
+HOMEPAGE:
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/home1.PNG" width=100%>
+
+LOGIN:
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/login.PNG" width=40%>
+
+BASKET:
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/basket.PNG" width=100%>
+
+CHECKOUT:
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/checkout.PNG" width=100%>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
