@@ -3,7 +3,6 @@
 HOMEPAGE:
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/home1.PNG" width=100%>
 
-LOGIN:</n>
 <img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/login.PNG" width=40%>
 
 BASKET:
