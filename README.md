@@ -1,3 +1,7 @@
+Amazon clone made with react .js library
+
+<img src="https://github.com/Ahmadkhan02/amazon_clone/blob/main/img/home1.PNG" width=100%>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
